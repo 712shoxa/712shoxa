@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Bilol</h1>
+<h1 align="center">Hi 👋, I'm shohruh</h1>
 <h3 align="center">A passionate Web developer</h3>
 <img src='https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif'  alt='Coding' witdh='300px' height='300px' float='right'  />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilol-anvarov&label=Profile%20views&color=0e75b6&style=flat" alt="bilol" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohruh-yuldoshev&label=Profile%20views&color=0e75b6&style=flat" alt="shox" /> </p>
 
 
 
@@ -21,4 +21,4 @@
        
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilol-anvarov&" alt="abdulazizbay" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shohruh-yuldoshev&" alt="yuldashev" /></p>
